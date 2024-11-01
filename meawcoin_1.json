@@ -1,0 +1,16 @@
+{
+    "name": "Meawcoin Token",
+    "description": "Introducing you the greatest coin of all time, the Meawcoin. The coin is exactly as it seems, it blows away anything in its way.",
+    "image": "https://github.com/mutasinjawad/MeawCoin/blob/8ea386370fc79edc7eae85d04041152b20016c6e/fina.png",
+    "external_url": "https://rtfkt.com",
+    "attributes": [
+        {
+            "trait_type": "Artefact",
+            "value": "911"
+        },
+        {
+            "trait_type": "Collection",
+            "value": "Genesis"
+        }
+    ]
+}
